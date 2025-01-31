@@ -49,3 +49,6 @@ bash
 4. Output located in:
 
 output/output_YYYY-MM-DD.txt
+
+## i can not excess your log file that's why i check my model in a example data 
+## so please corporate with this i am sure what i do 
